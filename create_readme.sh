@@ -1,8 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+USERNAME="PeterAndersson"
+
+cat <<'EOF'
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Peter%20Andersson%20👨‍💻&fontSize=36&fontAlignY=35&desc=Lead%20Quant%20Dev%20%7C%20Systematic%20Trading%20%7C%20AI%20Tools&descAlignY=55&descAlign=50)
 
 # 👋 Hi there, I'm Peter!
 
-Lead Quant Dev @ SuperSecret (London)  
+Lead Quant Dev @ Inference Investment Management (London)  
 40+ years of building software, breaking software, and occasionally fixing it again.  
 Currently designing IT architecture, implementing AI tools, and still wondering why coffee isn’t tax deductible as R&D.
 
@@ -52,3 +58,4 @@ Currently designing IT architecture, implementing AI tools, and still wondering 
 - Email: *public email if you’re comfortable sharing*  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+EOF
