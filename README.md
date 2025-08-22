@@ -34,8 +34,8 @@ Currently designing IT architecture, implementing AI tools, and still wondering 
 ---
 
 ## 📊 GitHub by the Numbers
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username='"$USERNAME"'&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username='"$USERNAME"'&layout=compact&theme=radical)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=fshsweden&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fshsweden&layout=compact&theme=radical)
 
 ---
 
@@ -47,8 +47,6 @@ Currently designing IT architecture, implementing AI tools, and still wondering 
 ---
 
 ## 📫 Get in Touch
-- GitHub: [PeterAndersson](https://github.com/'"$USERNAME"')  
-- LinkedIn: *add link here if you want*  
-- Email: *public email if you’re comfortable sharing*  
+- GitHub: [PeterAndersson](https://github.com/fshsweden)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
